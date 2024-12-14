@@ -1,0 +1,24 @@
+body{
+background-color: black;
+
+}
+.post{
+    background-color: white;
+    width: 450px;
+    height: 500px;
+    
+
+}
+.post-header{
+     display: flex;
+justify-content: left;
+
+}
+.txt{
+    margin-left: 10px;
+    
+}
+.post-imagen{
+    margin-left: 250px;
+}
+
